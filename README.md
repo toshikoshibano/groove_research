@@ -1,5 +1,5 @@
 # groove_research
-Courseword for MUSC 403/533F: Cognition of Musical Rhythmon
+MUSC 403/533F: Cognition of Musical Rhythmon
 
 Research topic: groove rhythm and human cognition
 
